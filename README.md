@@ -22,6 +22,10 @@
 * `pyttsx3` – Voice response (text-to-speech)
 * `pyaudio` – Audio input/output interface
 
+🖼️ Demo Screenshot
+<img width="1858" height="901" alt="image" src="https://github.com/user-attachments/assets/822b5c32-0662-458b-8d25-ab4a59b870db" />
+
+
 ### 📥 Installation
 
 ```bash
